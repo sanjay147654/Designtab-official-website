@@ -1,0 +1,77 @@
+/*SECTION*/
+#about{
+  margin-top: 30px;
+  overflow: hidden;
+  height:480px;
+}
+#hbox{
+	width:40%;
+	float:left;
+	display: inline;
+	    margin:0 2.5%;
+}
+#hero{
+
+  margin:0 auto;
+  width: 100%;
+  display: inline;
+
+}
+
+#info{
+	width: 45%;
+  padding-top  :25px; 
+  margin:0 2.5%;
+  text-align: left; 
+  float: right;
+}
+#info-text{
+  width: 100%;
+  padding-top  :30px; 
+  margin:0 2.5%;
+  text-align: left;
+  font-size:3.75rem; 
+}
+
+#des{
+	font-size: 18px;
+}
+
+/*ENTRANCE ANIMATION*/
+@-webkit-keyframes fade-in {
+	0%   { opacity: 0; }
+	50%   { opacity: 0; }
+	100% { opacity: 1; }
+
+}
+
+
+body {
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 1s;
+}
+#particles-js{
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 2s;
+
+}
+#tint{
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 3s;
+
+}
+header {
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 3.5s;
+
+}
+section {
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 4s;
+
+}
+footer {
+	-webkit-animation-name: fade-in;
+	-webkit-animation-duration: 5s;
+
+}

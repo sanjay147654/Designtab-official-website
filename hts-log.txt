@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 May 2019 12:06:26 at http://designtab.nitrkl.ac.in/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://designtab.nitrkl.ac.in/index.html -O1 "F:\Design Tab Official Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:09:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 278177 got 166366): designtab.nitrkl.ac.in/images/3d/img/5.png
+12:09:56	Warning: 	Warning: store application/octet-stream without scan: F:/Design Tab Official Website/designtab.nitrkl.ac.in/images/DT1.svg
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/Jura-light.otf (from designtab.nitrkl.ac.in/css/style.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.eot?v=4.3.0 (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.eot? (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.woff2?v=4.3.0 (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.woff?v=4.3.0 (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.ttf?v=4.3.0 (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:09:56	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/fonts/fontawesome-webfont.svg?v=4.3.0 (from designtab.nitrkl.ac.in/css/font-awesome.min.css)
+12:11:12	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/css/team/normalize.css.css (from designtab.nitrkl.ac.in/3d.html)
+12:23:22	Warning: 	Retry after error -4 (Incorrect length (166366 Bytes, 278177 expected)) at link designtab.nitrkl.ac.in/images/3d/img/5.png (from designtab.nitrkl.ac.in/3d.html)
+12:23:54	Error: 	"Not Found" (404) at link designtab.nitrkl.ac.in/css/images/bg.jpg (from designtab.nitrkl.ac.in/css/team/demo.css)
+12:23:54	Warning: 	Retry after error -2 (Receive Time Out) at link designtab.nitrkl.ac.in/css/images/37.jpg (from designtab.nitrkl.ac.in/css/team/style4.css)
+12:23:54	Warning: 	Retry after error -4 (Incorrect length (291437 Bytes, 527787 expected)) at link designtab.nitrkl.ac.in/images/graphics/img/14.png (from designtab.nitrkl.ac.in/graphics.html)
+12:23:54	Warning: 	Retry after error -4 (Incorrect length (153789 Bytes, 349223 expected)) at link designtab.nitrkl.ac.in/images/graphics/img/15.png (from designtab.nitrkl.ac.in/graphics.html)
+12:23:58	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/16.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:21	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/16.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:27	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/17.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:32	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/17.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:48	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/18.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:53	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/18.png (from designtab.nitrkl.ac.in/graphics.html)
+12:24:56	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/19.png (from designtab.nitrkl.ac.in/graphics.html)
+12:25:12	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/19.png (from designtab.nitrkl.ac.in/graphics.html)
+12:25:22	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/20.png (from designtab.nitrkl.ac.in/graphics.html)
+12:25:37	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/20.png (from designtab.nitrkl.ac.in/graphics.html)
+12:25:41	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/21.png (from designtab.nitrkl.ac.in/graphics.html)
+12:25:57	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/21.png (from designtab.nitrkl.ac.in/graphics.html)
+12:26:07	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/22.png (from designtab.nitrkl.ac.in/graphics.html)
+12:26:13	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/22.png (from designtab.nitrkl.ac.in/graphics.html)
+12:26:34	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/23.png (from designtab.nitrkl.ac.in/graphics.html)
+12:26:39	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/23.png (from designtab.nitrkl.ac.in/graphics.html)
+12:26:50	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/24.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:01	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/24.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:12	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/25.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:15	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/25.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:21	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/26.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:27	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/26.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:39	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/27.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:44	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/27.png (from designtab.nitrkl.ac.in/graphics.html)
+12:27:58	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/28.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:00	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/28.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:03	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/29.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:06	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/29.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:09	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/30.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:13	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/30.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:14	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/31.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:21	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/31.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:32	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/img/32.png (from designtab.nitrkl.ac.in/graphics.html)
+12:28:32	Warning: 	Retry after error -4 (Connect Error) at link designtab.nitrkl.ac.in/images/graphics/32.png (from designtab.nitrkl.ac.in/graphics.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 13 seconds : 229 links scanned, 181 files written (31738194 bytes overall) [31787603 bytes received at 23846 bytes/sec], 1767 bytes transferred using HTTP compression in 1 files, ratio 47%
+(9 errors, 40 warnings, 0 messages)
